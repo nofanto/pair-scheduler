@@ -1,0 +1,44 @@
+Iteration 0:
+pair-0 : John-Bill
+pair-1 : Alice-Bob
+pair-2 : Sandra-Sarah
+pair-3 : Steve-N/A
+Iteration 1:
+pair-0 : John-Bob
+pair-1 : Alice-Bill
+pair-2 : Sandra-Steve
+pair-3 : Sarah-N/A
+Iteration 2:
+pair-0 : John-Steve
+pair-1 : Alice-Sandra
+pair-2 : Bill-Bob
+Iteration 3:
+pair-0 : John-Sandra
+pair-1 : Alice-Sarah
+pair-2 : Bill-Steve
+pair-3 : Bob-N/A
+Iteration 4:
+pair-0 : John-N/A
+pair-1 : Alice-Steve
+pair-2 : Bill-Sandra
+pair-3 : Bob-Sarah
+Iteration 5:
+pair-0 : Bill-Sarah
+pair-1 : Bob-Sandra
+pair-2 : John-Alice
+pair-3 : Steve-N/A
+Iteration 6:
+pair-0 : Bob-Steve
+pair-1 : Sandra-N/A
+pair-2 : John-Sarah
+pair-3 : Alice-Bill
+Iteration 7:
+pair-0 : Alice-N/A
+pair-1 : Sarah-Steve
+pair-2 : John-Bill
+pair-3 : Bob-Sandra
+Iteration 8:
+pair-0 : Bill-N/A
+pair-1 : John-Alice
+pair-2 : Bob-Sarah
+pair-3 : Sandra-Steve

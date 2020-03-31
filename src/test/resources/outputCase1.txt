@@ -1,0 +1,9 @@
+Iteration 0:
+pair-0 : John-Bob
+pair-1 : Alice-Bill
+Iteration 1:
+pair-0 : John-Bill
+pair-1 : Alice-Bob
+Iteration 2:
+pair-0 : Bob-Bill
+pair-1 : John-Alice

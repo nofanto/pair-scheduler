@@ -1,0 +1,24 @@
+Iteration 0:
+pair-0 : John-Bill
+pair-1 : Alice-Bob
+pair-2 : Sandra-Sarah
+Iteration 1:
+pair-0 : John-Sandra
+pair-1 : Alice-Bill
+pair-2 : Bob-Sarah
+Iteration 2:
+pair-0 : John-Bob
+pair-1 : Alice-Sandra
+pair-2 : Bill-Sarah
+Iteration 3:
+pair-0 : Alice-Sarah
+pair-1 : Bill-Bob
+pair-2 : John-Sandra
+Iteration 4:
+pair-0 : Bill-Sandra
+pair-1 : John-Alice
+pair-2 : Bob-Sarah
+Iteration 5:
+pair-0 : John-Sarah
+pair-1 : Bob-Sandra
+pair-2 : Alice-Bill
